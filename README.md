@@ -43,7 +43,7 @@ currently:
   - Competing in VEX Robotics
   - Studying Java and computer science fundamentals
   - Experimenting with AI agents and embedded systems
-
+```
 I enjoy building projects that combine software, AI, robotics, and real-world problem solving.
 
 Most of my projects start as an idea and turn into something I can actually build, deploy, test, and improve.
