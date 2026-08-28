@@ -4,11 +4,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/waltergaalswyk/">
-    <img src="https://img.shields.io/badge/LinkedIn-Walter%20Gaalswyk-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Walter%20Gaalswyk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.modeltally.com/">
-    <img src="https://img.shields.io/badge/ModelTally-Live%20Project-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ModelTally-Live%20Project-111111?style=for-the-badge" />
   </a>
+  <a href="mailto:waltergaalswyk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manny7717&style=flat-square" />
 </p>
 
 ---
