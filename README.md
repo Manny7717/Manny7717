@@ -1,42 +1,38 @@
-# Walter Gaalswyk
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Walter%20Gaalswyk&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20%7C%20AI%20%7C%20Robotics%20%7C%20Full-Stack&descAlign=50&descAlignY=58&animation=fadeIn" />
+</p>
 
-Computer science student interested in software engineering, AI, robotics, and full-stack development.
-
-I enjoy building real products, experimenting with AI systems, working with Linux and self-hosted infrastructure, and competing in VEX Robotics.
-
-## Featured Projects
-
-### ModelTally
-AI visibility analytics platform for local businesses.
-
-ModelTally tests customer-style queries across multiple AI assistants to determine whether businesses are being recommended, how they rank against local competitors, and what can be improved to increase their visibility in AI-driven search.
-
-**Tech:** Next.js, TypeScript, Supabase, PostgreSQL, AI APIs
+<p align="center">
+  <a href="https://www.linkedin.com/in/waltergaalswyk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Walter%20Gaalswyk-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.modeltally.com/">
+    <img src="https://img.shields.io/badge/ModelTally-Live%20Project-black?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-### BrothTracker
-VEX Robotics analytics platform using the RobotEvents API.
+## About Me
 
-Tracks team statistics, matches, rankings, awards, and competition performance to make scouting and team research easier.
+```yaml
+name: Walter Gaalswyk
+location: Minnesota, USA
 
-**Tech:** JavaScript, REST APIs, JSON, Data Analysis
+education:
+  - Computer Science / Information Technology
+  - South Central College
+  - Mankato West Senior High School
 
----
+interests:
+  - Software Engineering
+  - Artificial Intelligence
+  - Robotics
+  - Full-Stack Development
+  - Linux & Homelab Infrastructure
 
-### Lappy
-Custom Raspberry Pi 5 AI assistant terminal with a touchscreen kiosk interface and AI agent integration.
-
-**Tech:** Raspberry Pi, Linux, AI APIs, JavaScript/TypeScript, Docker
-
-## Technologies
-
-Java • Python • TypeScript • JavaScript • C++  
-Next.js • Supabase • PostgreSQL • Git • Linux • Docker  
-REST APIs • AI/LLMs • Robotics
-
-## Currently
-
-- Studying computer science and software development
-- Building AI and full-stack projects
-- Competing in VEX Robotics
+currently:
+  - Building AI-powered software
+  - Competing in VEX Robotics
+  - Studying Java and computer science fundamentals
+  - Experimenting with AI agents and embedded systems
